@@ -51,6 +51,9 @@ To identify potential malicious qualities in emails. Email phishing is the most 
 - The "From" address appears to be `alerts@chase.com`, but the "Reply-To" address is `kellyellin426@proton.me`.
 - No legitimate email signature from Chase Bank.
 
+- ![Chase Bank Email]()
+
+
 ### Tools Used:
 - Python Email IOC Extractor
 - Whois command
