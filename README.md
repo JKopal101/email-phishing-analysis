@@ -1,4 +1,4 @@
-# Analysing a Phishing Email
+# Incident Response: Analysing a Phishing Email
 
 ## Project Overview
 
